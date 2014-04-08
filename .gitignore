@@ -9,5 +9,10 @@ node_modules/*
 ignore_assets/
 *.bowerrc
 bower.json
-server/node_modules
-server/*.log
+stylr-server/node_modules
+stylr-server/*.log
+.cordova/
+README.md
+config.xml
+plugins/
+www/
